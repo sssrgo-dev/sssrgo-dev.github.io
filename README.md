@@ -13,7 +13,7 @@ My it-development life and information science investigation
 
 [Урок - 8](https://sssrgo-dev.github.io\lesson-8\src\index.html "Сделанная работа 8-го урока") - Адаптивная вёрстка - начало. Bootstrap.
 
-[Урок - 9](https://sssrgo-dev.github.io\lesson-9\src\index.html "Сделанная работа 9-го урока") - Вёрстка одностраничного сайта с помощью Бутстрап.
+[Урок - 9](https://sssrgo-dev.github.io/lesson-9/src/index.html "Сделанная работа 9-го урока") - Вёрстка одностраничного сайта с помощью Бутстрап.
 
 [Урок - 10](https://sssrgo-dev.github.io\lesson-10\src\less\main.less "Сделанная работа 10-го урока") - Препроцессор Less - знакомство... Переписал заданные таблицы CSS на Less
 
