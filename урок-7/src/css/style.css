@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5 {
+	text-align: center;
+}
+
+div img {
+	border: 5px solid red;
+}
+
+.img {
+	text-align: center;
+}
+
+h3, h4 {
+	background: red;
+	margin: 0 auto;
+	width: 200px;
+
+}
+
+h4 {
+	background: blue;
+}
+
+a {
+	color: #ffffff;
+
+}
+
+.bold{
+	font-weight: bold;
+	color: blue;
+}
+
+.coursive {
+font-style: italic;
+color: yellow;
+background-color: red;
+}

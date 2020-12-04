@@ -1,0 +1,19 @@
+span.header-1{
+	display: block;
+}
+
+.custom-form{
+	border: 2px solid #3c3cdd;
+}
+
+h1, h2{
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+img.client{
+	width: 100%;
+}

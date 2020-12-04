@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="83" viewBox="0 0 122 83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        stroke: #f93;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect id="_6_наведение" data-name="6 наведение" class="cls-1" x="1" y="1" width="120" height="81"/>
+</svg>
