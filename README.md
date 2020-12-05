@@ -19,5 +19,7 @@ My it-development life and information science investigation
 
 [Урок - 12](https://sssrgo-dev.github.io\README.md "Сделанная работа 12-го урока") - Добавление всех предыдущих заданий на удалённый репозиторий ГитХаб.
 
+[Урок - 13](https://sssrgo-dev.github.io\lesson-13/src/index.html "Сделанная работа 13-го урока") - Добавление всех предыдущих заданий на удалённый репозиторий ГитХаб.
+
 [Канал Артёма](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg "Хороший, талантливый учитель") - Хороший, талантливый учитель
  
