@@ -19,7 +19,11 @@ My it-development life and information science investigation
 
 [Урок - 12](https://sssrgo-dev.github.io/README.md "Сделанная работа 12-го урока") - Добавление всех предыдущих заданий на удалённый репозиторий ГитХаб.
 
+<<<<<<< HEAD
 [Урок - 13](https://sssrgo-dev.github.io/lesson-13/src/index.html "Сделанная работа 13-го урока") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
+=======
+[Урок - 13](https://sssrgo-dev.github.io\lesson-13\src\index.html "Сделанная работа 13-го урока") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
+>>>>>>> 65c0002a43ed02cc1de92e40a5a3a3226f632fba
 
 [Канал Артёма](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg "Хороший, талантливый учитель") - Хороший, талантливый учитель
  
