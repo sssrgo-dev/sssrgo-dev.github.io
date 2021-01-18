@@ -23,5 +23,7 @@ My it-development life and information science investigation
 
 [Урок - 14](https://sssrgo-dev.github.io/lesson-14/src/index.html "Сделанная работа 14-го урока") - Вёрстка шапки сайта на Bootsrap-5
 
+[Урок - 15](https://sssrgo-dev.github.io/lesson-15/src/index.html "Сделанная работа 15-го урока") - Подключение шрифтов
+
 [Канал Артёма](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg "Хороший, талантливый учитель") - Хороший, талантливый учитель
  
