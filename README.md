@@ -21,8 +21,6 @@ My it-development life and information science investigation
 
 [Урок - 13](https://sssrgo-dev.github.io/lesson-13/src/index.html "Сделанная работа 13-го урока") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
 
-[Урок - 14](https://sssrgo-dev.github.io/lesson-14/src/index.html "Сделанная работа 13-го урока") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
-
 [Урок - 14](https://sssrgo-dev.github.io/lesson-14/src/index.html "Сделанная работа 14-го урока") - Вёрстка шапки сайта на Bootsrap-5
 
 [Канал Артёма](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg "Хороший, талантливый учитель") - Хороший, талантливый учитель
