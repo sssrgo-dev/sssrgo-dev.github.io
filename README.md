@@ -25,5 +25,5 @@ My it-development life and information science investigation
 
 [Урок - 15](https://sssrgo-dev.github.io/lesson-15/src/index.html "Сделанная работа 15-го урока") - Подключение шрифтов Open Sans, Bebas, Lato и Lobster
 
-[Канал Артёма](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg "Хороший, талантливый учитель") - Хороший, талантливый учитель
+[Урок - 16](https://sssrgo-dev.github.io/lesson-16/src/index.html "Сделанная работа 16-го урока") - Выполнение 16го урока. Вёрстка первого экрана.
  

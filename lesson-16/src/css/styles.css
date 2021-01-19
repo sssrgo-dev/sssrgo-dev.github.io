@@ -1,0 +1,112 @@
+/* Basic settings */
+@font-face {
+  font-family: 'ProximaNova_Rg';
+  src: url('../fonts/ProximaNova-Regular.eot');
+  src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Regular.woff2') format('woff2'), url('../fonts/ProximaNova-Regular.woff') format('woff'), url('../fonts/ProximaNova-Regular.ttf') format('truetype'), url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+html {
+  font-size: 10px;
+}
+.section-1 {
+  background: url("../img/section-1.jpg") center center no-repeat;
+  background-size: contain;
+}
+.section-1 .my-button {
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  background: #f7ae01;
+  color: #fff;
+  border-radius: 5px;
+}
+.section-1 a {
+  display: inline-block;
+}
+.wrap-block {
+  text-align: right;
+}
+.phone {
+  color: #000000;
+  font-weight: 900;
+  font-size: 2rem;
+  text-decoration: none;
+}
+.main-idea {
+  margin: 10rem 0px 1rem 0px;
+}
+h1 {
+  font-family: ProximaNova_Rg, sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 4rem;
+}
+p {
+  font-family: ProximaNova_Rg, sans-serif;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 3rem;
+  padding: 3rem;
+  background: #fff;
+}
+legend,
+.label,
+input,
+button {
+  text-align: center;
+  background-color: #fff;
+}
+form > div {
+  display: flex;
+  justify-content: center;
+}
+.label {
+  padding: 0px 3px;
+  line-height: 2rem;
+  font-size: 1.3rem;
+  background-color: #fff;
+  position: absolute;
+  margin-top: -1rem;
+}
+input {
+  margin-bottom: 4rem;
+}
+legend {
+  margin-bottom: 4rem;
+  font-size: 2rem;
+}
+input,
+button {
+  width: 260px;
+  height: 5.6rem;
+  border-radius: 0.6rem;
+  border-color: #767676;
+  margin-bottom: 2rem;
+}
+.promo-text {
+  margin: 3.5rem 0rem 5.5rem 0rem;
+  font-size: 2rem;
+}
+.promo-cost {
+  display: inline-block;
+  margin-bottom: 4.5rem;
+  padding: 1.8rem 3rem;
+  background-color: #70c849;
+  text-align: center;
+  font-size: 1.7rem;
+  color: #fff;
+}
+.promo-big {
+  font-size: 2rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.promo-striction {
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
