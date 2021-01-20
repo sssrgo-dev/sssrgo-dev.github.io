@@ -19,11 +19,13 @@ My it-development life and information science investigation
 
 [Урок - 12](https://sssrgo-dev.github.io/README.md "Сделанная работа 12-го урока") - Добавление всех предыдущих заданий на удалённый репозиторий ГитХаб.
 
-[Урок - 13](https://sssrgo-dev.github.io/lesson-13/src/index.html "Сделанная работа 13-го урока") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
+[Урок - 13](https://sssrgo-dev.github.io/lesson-13/src/index.html "Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе") - Вёрстка формы пиксель в пиксель. Не работал фотошоп. Открывал макет в Иллюстраторе
 
-[Урок - 14](https://sssrgo-dev.github.io/lesson-14/src/index.html "Сделанная работа 14-го урока") - Вёрстка шапки сайта на Bootsrap-5
+[Урок - 14](https://sssrgo-dev.github.io/lesson-14/src/index.html "Вёрстка шапки сайта на Bootsrap-5") - Вёрстка шапки сайта на Bootsrap-5
 
-[Урок - 15](https://sssrgo-dev.github.io/lesson-15/src/index.html "Сделанная работа 15-го урока") - Подключение шрифтов Open Sans, Bebas, Lato и Lobster
+[Урок - 15](https://sssrgo-dev.github.io/lesson-15/src/index.html "Подключение шрифтов Open Sans, Bebas, Lato и Lobster") - Подключение шрифтов Open Sans, Bebas, Lato и Lobster
 
-[Урок - 16](https://sssrgo-dev.github.io/lesson-16/src/index.html "Сделанная работа 16-го урока") - Выполнение 16го урока. Вёрстка первого экрана.
+[Урок - 16](https://sssrgo-dev.github.io/lesson-16/src/index.html "Вёрстка первого экрана.") - Вёрстка первого экрана.
+
+[Урок - 17](https://sssrgo-dev.github.io/lesson-17/src/index.html "Работа с псевдо (псевдоклассы и псевдоэлементы).") - Работа с псевдо (псевдоклассы и псевдоэлементы).
  
