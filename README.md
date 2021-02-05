@@ -29,3 +29,4 @@ My it-development life and information science investigation
 
 [Урок - 17](https://sssrgo-dev.github.io/lesson-17/src/index.html "Работа с псевдо (псевдоклассы и псевдоэлементы).") - Работа с псевдо (псевдоклассы и псевдоэлементы).
  
+[Урок - 18](https://sssrgo-dev.github.io/lesson-18/src/index.html "Работа с псевдо (+адаптивная вёрстка).") - Работа с псевдо (+адаптивная вёрстка).
