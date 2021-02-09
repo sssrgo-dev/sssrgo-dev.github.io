@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>Автоматизированная штукатурка стен</title>
+
+        <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+  
+
+  <button href="#del" class="test-popup-link">Удалить файл</button>
+
+  <div id="del" class="container del mfp-hide">
+    <div class="row del-title">
+      <h2 class="mx-auto">Вы действительно хотите удалить файл?</h2>
+    </div>
+    <div class="row justify-content-end">
+      <button class="btn btn-danger del-no col-2 mx-3">Нет</button>
+      <button class="btn btn-success del-yes col-2">Да</button>
+    </div>
+  </div>
+
+
+  <!-- jQuery 1.8 or later, 33 KB -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+  <!-- Magnific Popup core CSS file -->
+  <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+
+  <!-- Slick Slider CSS&JS file -->
+  <link rel="stylesheet" href="slick/slick.css">
+  <link rel="stylesheet" href="slick/slick-theme.css">
+  <script src="slick/slick.min.js"></script>
+
+  <!-- Magnific Popup core JS file -->
+  <script src="magnific-popup/jquery.magnific-popup.js"></script>
+  <script>
+    $('.test-popup-link').magnificPopup({
+      items:{
+        src: '#del',
+        type: 'inline',
+        midClick: true
+        // other options
+      }
+    });
+  </script>
+
+  <script>
+    $(document).ready(function(){
+      $('.advantages-slider').slick({
+        speed: 300,
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          /*autoplay: true,
+          autoplaySpeed: 2000,*/
+          /*accessibility: false,*/
+          responsive: [
+            {
+              breakpoint: 992,
+              settings: {
+                slidesToShow: 2,
+                prevArrow: '<button class="prev"></button>',
+                nextArrow: '<button class="next"></button>',
+                slidesToScroll: 1,
+                infinite: true,
+               }
+            },
+            
+            {
+              breakpoint: 450,
+              settings: {
+                slidesToShow: 1,
+                prevArrow: '<button class="prev"></button>',
+                nextArrow: '<button class="next"></button>',
+                slidesToScroll: 1,
+                infinite: true,
+              }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+          ]
+      });
+    });
+  </script>
+
+  </body>
+</html>

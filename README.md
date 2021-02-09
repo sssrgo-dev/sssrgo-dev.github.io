@@ -34,3 +34,5 @@ My it-development life and information science investigation
 [Урок - 19](https://sssrgo-dev.github.io/lesson-19/src/index.html "Вёрстка баннера.") - Вёрстка баннера.
 
 [Урок - 20](https://sssrgo-dev.github.io/lesson-20/src/index.html "Вёрстка преимуществ.") - Вёрстка преимуществ.
+
+[Урок - 21](https://sssrgo-dev.github.io/lesson-21/src/index.html "Вёрстка кнопки удаления файла.") - Вёрстка кнопки удаления файла.
