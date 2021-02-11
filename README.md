@@ -40,3 +40,5 @@ My it-development life and information science investigation
 [Урок - 22](https://sssrgo-dev.github.io/lesson-22/src/index.html "Вёрстка попап первая.") - Вёрстка попап первая.
 
 [Урок - 23](https://sssrgo-dev.github.io/lesson-23/src/index.html "Вёрстка Табов и Аккордеона Boostrap.") - Вёрстка Табов и Аккордеона Boostrap.
+
+[Урок - 24](https://sssrgo-dev.github.io/lesson-24/src/index.html "Вёрстка Секции Цены Boostrap.") - Вёрстка Секции Цены Boostrap.

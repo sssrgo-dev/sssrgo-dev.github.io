@@ -19,7 +19,9 @@
 
   <body>
 
-    <div class="section-1 container py-4">
+    <div class="section-1 py-4">
+      <div class="container">
+        
       <div class="row align-items-center header">
         <div class="col-2 mx-auto"><img class="mx-auto" src="img/gipsolit.png" alt="gipsolit"></div>
         <div class="col-xl-7 col-xxl-8 col-md-6 col-sm-10 wrap-block"><a class="phone" href="#">+7 495 771 05 08</a></div>
@@ -49,10 +51,12 @@
           <p class="promo-striction">* - выезды на замер осуществляются<br>в рабочие дни Пн-Пт с 9:00 до 18:00</p>
         </div>
       </div>
+      </div>
     </div>
 
-    <div class="container section-2">
-      <div class="row section-header my-5 mx-auto justify-content-center">
+    <div class="section-2">
+      <div class="container">
+        <div class="row section-header my-5 mx-auto justify-content-center">
         <h2>Преимущества работы с нами</h2>
       </div>
       <div class="row advantages-slider my-5">
@@ -84,8 +88,7 @@
             </picture>
           </div>
           <h3 class="my-5">Точно в срок</h3>
-          <p>Работаем строго п о установленным срокам, которые прописаны 
-  в договоре. Если не успеваем, <br>Вы платите меньше</p>
+          <p>Работаем строго п о установленным срокам, которые прописаны в договоре. Если не успеваем, <br>Вы платите меньше</p>
         </div>
         <div class="advantage">
           <div class="advantage-img">
@@ -99,33 +102,83 @@
           </p>
         </div>
       </div>
+      </div>
     </div>
 
-<div class="popup">
-  <div class="popup-wrapper">
-    <div class="popup-content">
-      
-        <div class="close">&times;</div>
-        <form action="#">
-          <legend class="py-4"><strong>Заинтересовало?</strong><br>Оставьте контактные данные<br>для связи</legend>
-          <div>
-            <p class=label>Ваше имя</p>
-            <input type="text" name="clientname">
-          </div>
-          <div>  
-            <p class=label>Номер телефона</p>
-            <input type="text">
-          </div>
-          <div>
-            <p class=label>Сообщение</p>
-            <textarea name="" id="" rows="5"></textarea>
-          </div>
-          <button class="btn my-button">оставьте заявку</button>
-        </form>
+    <div class="popup">
+      <div class="popup-wrapper">
+        <div class="popup-content">
+          
+            <div class="close">&times;</div>
+            <form action="#">
+              <legend class="py-4"><strong>Заинтересовало?</strong><br>Оставьте контактные данные<br>для связи</legend>
+              <div>
+                <p class=label>Ваше имя</p>
+                <input type="text" name="clientname">
+              </div>
+              <div>  
+                <p class=label>Номер телефона</p>
+                <input type="text">
+              </div>
+              <div>
+                <p class=label>Сообщение</p>
+                <textarea name="" id="" rows="5"></textarea>
+              </div>
+              <button class="btn my-button">оставьте заявку</button>
+            </form>
+        </div>
+        
+      </div>
     </div>
-    
-  </div>
-</div>
+
+    <div class="section-3">
+      <div class="container">
+        <div class="row header justify-content-between">
+          <h2 class="col-lg-4 offset-lg-4"><span>Цены</span><br>Выберите вариант, который подходит Вам</h2>
+          <button class="col-lg-4 col-8 mx-auto mx-lg-0 btn my-button">Рассчитать точную стоимость</button>
+        </div>
+        <div class="row prices justify-content-between">
+          <div class="price-block col-11 mx-auto col-sm-5 col-lg-4 ">
+            <h3>Штукатурка Вашим материалом</h3>
+            <img src="img/pricepic/1.jpg" alt="Штукатурка Вашим материалом">
+            <h4>от <span>300</span> руб/м<sup>2</sup></h4>
+            <ul>
+              <li>Проведение работ</li>
+              <li>Уборка</li>
+              
+            </ul>
+            <button class="col-lg-6 btn my-button">Заказать</button>
+          </div>
+          <div class="price-block col-11 mx-auto col-sm-5 col-lg-4 ">
+            <h3>Штукатрука под шпаклёвку</h3>
+            <img src="img/pricepic/2.jpg" alt="Штукатрука под шпаклёвку">
+            <h4>от <span>530</span> руб/м<sup>2</sup></h4>
+            <ul>
+              <li>Завоз материала и его подъём</li>
+              <li>Проведение работ</li>
+              <li>Уборка</li>
+              <li>Гарантия 2 года</li>
+              
+            </ul>
+            <button class="col-lg-6 col btn my-button">Заказать</button>
+          </div>
+          <div class="price-block col-11 mx-auto col-lg-4 "> 
+            <h3>Штукатурка под обои</h3> 
+            <img src="img/pricepic/3.jpg" alt="Штукатурка под обои">
+            <h4>от <span>560</span>руб/м<sup>2</sup></h4>
+            <ul>
+              <li>Завоз материала и его подъём</li>
+              <li>Проведение работ</li>
+              <li>Уборка</li>
+              <li>Гарантия 2 года</li>
+              <li>Можно сразу клеить обои</li>
+              
+            </ul>
+            <button class="col-lg-6 btn my-button">Заказать</button>
+          </div>
+        </div>
+      </div>
+    </div>
 
   <!-- jQuery 1.8 or later, 33 KB -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
