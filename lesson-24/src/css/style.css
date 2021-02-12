@@ -56,7 +56,9 @@ h2 {
   padding: 0.8em 1em calc(3.8em);
   border-radius: 3px;
   background: #40c781;
-  box-shadow: 0 -3px #35a76e inset;
+  -webkit-box-shadow: 0 -3px #35a76e inset;
+          box-shadow: 0 -3px #35a76e inset;
+  -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .button-one:hover {
@@ -71,7 +73,9 @@ h2 {
   border-style: solid none;
   border-color: #FDBE33 #000 #D77206;
   border-radius: 6px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#f3ae0f), to(#e38916)) #e38916;
   background: linear-gradient(#f3ae0f, #e38916) #e38916;
+  -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .button-two:hover {

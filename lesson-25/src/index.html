@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Starter Template for Bootstrap</title>
+    <link rel="stylesheet" href="css/old-animate.min.css">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="css/styles.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="faq">
+      <div class="container">
+         <div class="row justify-content-center">
+           <div class="header col-6">
+             <h1><span>Ответы на вопросы</span><br>которые нам задают чаще всего<hr></h1>
+           </div>
+           <div class="faq-accordion col-10">
+             <div class="accordion" id="accordionExample">
+               <div class="accordion-item">
+                 <h2 class="accordion-header" id="headingOne">
+                   <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                     Сколько времени может занять быстрая уборка 3-х комнатной квартиры?
+                   </button>
+                 </h2>
+                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                   <div class="accordion-body wow bounceInLeft">
+                     <strong>Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                   </div>
+                 </div>
+               </div>
+               <div class="accordion-item">
+                 <h2 class="accordion-header" id="headingTwo">
+                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                     Accordion Item #2
+                   </button>
+                 </h2>
+                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                   <div class="accordion-body wow bounceInRight">
+                     <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                   </div>
+                 </div>
+               </div>
+               <div class="accordion-item">
+                 <h2 class="accordion-header" id="headingThree">
+                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                     Accordion Item #3
+                   </button>
+                 </h2>
+                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                   <div class="accordion-body">
+                     <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                   </div>
+                 </div>
+               </div>
+               <div class="accordion-item">
+                 <h2 class="accordion-header" >
+                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                     Accordion Item #4
+                   </button>
+                 </h2>
+                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                   <div class="accordion-body wow bounceInUp">
+                     <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+      </div>
+    </div>
+
+    <div class="account">
+       <div class="container account-container">
+         <div class="row">
+           <ul class="nav nav-tabs" id="myTab" role="tablist">
+             <li class="nav-item" role="presentation">
+               <a class="nav-link login active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Вход</a>
+             </li>
+             <li class="nav-item" role="presentation">
+               <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Регистрация</a>
+             </li>
+           </ul>
+
+           <div class="tab-content" id="myTabContent">
+             <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+              <form action="">
+                <input type="text" placeholder="Ваше имя">
+                <input class="psw" type="password" placeholder="Пароль">
+                <div class="tab-help">                  
+                  <p>Забыли пароль?</p>
+                  <input class="notion" type="checkbox" id="notion-checkbox">
+                  <label for="notion-checkbox">Напомнить мне</label>
+                </div>
+                <button class="btn my-button">Войти</button>
+              </form> 
+
+             </div>
+             <div class="tab-pane fade " id="profile" role="tabpanel" aria-labelledby="profile-tab">
+              <form action="">
+                <input type="text" placeholder="Ваше имя">
+                <input type="password" placeholder="Пароль">
+                <input type="password" placeholder="Повторите пароль">
+                <button class="btn my-button">Зарегистрироваться</button>
+              </form>
+             </div>
+           </div>
+         </div>
+         </div>
+       </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+
+  <script src="js/wow.min.js"></script>
+                <script>
+                new WOW().init();
+                </script>
+
+
+  </body>
+</html>
