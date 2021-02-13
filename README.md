@@ -44,3 +44,5 @@ My it-development life and information science investigation
 [Урок - 24](https://sssrgo-dev.github.io/lesson-24/src/index.html "Вёрстка Секции Цены Boostrap.") - Вёрстка Секции Цены Boostrap.
 
 [Урок - 25](https://sssrgo-dev.github.io/lesson-25/src/index.html "Вёрстка Анимаций.") - Вёрстка Анимаций.
+
+[Урок - 26](https://sssrgo-dev.github.io/lesson-26/src/index.html "Вёрстка Блока "Отзывы".") - Вёрстка Блока "Отзывы".
