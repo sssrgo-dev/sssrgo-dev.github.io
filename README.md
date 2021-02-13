@@ -48,3 +48,5 @@ My it-development life and information science investigation
 [Урок - 26](https://sssrgo-dev.github.io/lesson-26/src/index.html "Вёрстка Блока Отзывы.") - Вёрстка Блока Отзывы.
 
 [Урок - 27](https://sssrgo-dev.github.io/lesson-27/src/index.html "Вёрстка Видео фона.") - Вёрстка Видео фона.
+
+[Урок - 28](https://sssrgo-dev.github.io/lesson-28/src/index.html "Вёрстка Заказов после отзыва.") - Вёрстка Заказов после отзыва.
