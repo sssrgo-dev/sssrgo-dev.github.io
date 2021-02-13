@@ -46,3 +46,5 @@ My it-development life and information science investigation
 [Урок - 25](https://sssrgo-dev.github.io/lesson-25/src/index.html "Вёрстка Анимаций.") - Вёрстка Анимаций.
 
 [Урок - 26](https://sssrgo-dev.github.io/lesson-26/src/index.html "Вёрстка Блока Отзывы.") - Вёрстка Блока Отзывы.
+
+[Урок - 27](https://sssrgo-dev.github.io/lesson-27/src/index.html "Вёрстка Видео фона.") - Вёрстка Видео фона.
