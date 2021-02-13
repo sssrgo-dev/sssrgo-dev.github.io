@@ -344,7 +344,11 @@ textarea {
 .feedback .reviews-block {
   padding: 6rem;
 }
+.feedback .reviews-block .foto .fotorama__wrap {
+  margin: 0 auto;
+}
 .feedback .reviews-block-object {
+  margin-top: 5rem;
   padding-left: 3rem;
 }
 .feedback .reviews-block-object p {
@@ -352,6 +356,10 @@ textarea {
 }
 .feedback .reviews-block-object .client {
   margin-top: 5rem;
+}
+.feedback .reviews-block-object .client img {
+  width: 6rem;
+  height: 5rem;
 }
 .feedback .reviews-block-object .opinion {
   position: relative;
