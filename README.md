@@ -50,3 +50,5 @@ My it-development life and information science investigation
 [Урок - 27](https://sssrgo-dev.github.io/lesson-27/src/index.html "Вёрстка Видео фона.") - Вёрстка Видео фона.
 
 [Урок - 28](https://sssrgo-dev.github.io/lesson-28/src/index.html "Вёрстка Заказов после отзыва.") - Вёрстка Заказов после отзыва.
+
+[Урок - 29](https://sssrgo-dev.github.io/lesson-29/src/index.html "Вёрстка Паралаксов.") - Вёрстка Паралаксов.
